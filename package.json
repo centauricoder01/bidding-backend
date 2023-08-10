@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon Disc/index.js"
+    "start": "node Disc/index.js",
+    "dev": "nodemon Disc/index.js"
   },
   "author": "",
   "license": "ISC",
